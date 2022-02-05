@@ -1,0 +1,9 @@
+.env
+proxy/logs/
+db/mysql/
+
+!wordpress/html/
+wp-content/
+wordpress/html/wp-content/*
+!wordpress/html/wp-content/plugins/
+!wordpress/html/wp-content/themes/
